@@ -21,7 +21,7 @@ This project provides functionality to securely encrypt fingerprint images and s
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/zo-eth/bio-codein.git
 cd testinghandpring
 ```
 
